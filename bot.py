@@ -2,7 +2,6 @@ import os
 
 import requests
 import telebot
-from telebot import types
 
 from utils.deepl import translate
 from utils.pictureToText import image_to_text

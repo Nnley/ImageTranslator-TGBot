@@ -3,7 +3,7 @@ import json
 
 import requests
 
-from ..config import load_environment_variables
+from config import load_environment_variables
 load_environment_variables()
 
 
